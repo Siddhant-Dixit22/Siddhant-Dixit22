@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on OpenVerse<br>👯 I’m looking to collaborate on projects with ML/CV<br>🌱 I’m currently learning Computer Vision and Machine Learning<br>⚡ Fun fact, I am bilingual
 
+Personal Website: https://siddhant-dixit22.github.io/
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sid_dixit06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhant-dixit22) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dixit.siddhant22@gmail.com) 
