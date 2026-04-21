@@ -1,22 +1,103 @@
-# 💫 About Me:
-🔭 I’m currently working on OpenVerse<br>👯 I’m looking to collaborate on projects with ML/CV<br>🌱 I’m currently learning Computer Vision and Machine Learning<br>⚡ Fun fact, I am bilingual
+<h1 align="center">Hi, I'm Siddhant 👋</h1>
 
-Personal Website: https://siddhant-dixit22.github.io/
+<p align="center">
+  <em>CS junior at Michigan State building at the intersection of full-stack development and applied ML/AI.</em>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sid_dixit06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhant-dixit22) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dixit.siddhant22@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Siddhant-Dixit22&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Siddhant-Dixit22&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant-Dixit22&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <a href="https://linkedin.com/in/siddhant-dixit22"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:dixit.siddhant22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://siddhant-dixit22.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+  <a href="https://instagram.com/sid_dixit06"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Siddhant-Dixit22&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧭 About me
+
+- 🎓 **B.S. Computer Science** at Michigan State University — Expected May 2027 (GPA 3.71)
+- 🔭 Currently building **OpenVerse**, a full-stack marketplace for independent artists
+- 🧪 Working on **IntelliPay**, a centralized LLM billing dashboard unifying costs across providers
+- 🌱 Learning **Computer Vision & Machine Learning** — expanding from full-stack into applied AI
+- ☁️ **AWS Certified Cloud Practitioner**
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & Data**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**DevOps & Cloud**  
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+#### 🎨 [OpenVerse](https://github.com/Siddhant-Dixit22) — *Full-Stack Artist Marketplace*
+Freelance client project connecting independent artists with buyers. Artist profiles, product listings, and Stripe-integrated payments.
+> **Stack:** React · FastAPI · Supabase (PostgreSQL + RLS) · Stripe · Docker  
+> **Highlights:** 15+ documented REST endpoints · Row-Level Security for role-based access · containerized dev workflow
+
+#### 💳 [IntelliPay](https://github.com/Siddhant-Dixit22) — *LLM Billing Dashboard*
+Centralized cost tracking across LLM providers (OpenAI, Anthropic, etc.) with real-time analytics and subscription billing.
+> **Stack:** React (TypeScript) · FastAPI · PostgreSQL · Stripe · Docker · GitHub Actions  
+> **Highlights:** <300ms API response times · sub-second analytics via PostgreSQL index tuning · CI/CD deployment
+
+#### ✈️ [Flight Path Optimization](https://github.com/Siddhant-Dixit22) — *MSU Unmanned Systems*
+Pathfinding algorithm using Simulated Annealing to generate optimized UAV flight routes over arbitrary field geometries.
+> **Stack:** Python · C++  
+> **Highlights:** ~15% reduction in redundant coverage and flight time · battery-aware return-to-base logic · tested across varied field shapes
+
+---
+
+### 💼 Experience
+
+**Freelance Full-Stack Developer** · *Sept 2025 – Present*  
+Building OpenVerse end-to-end — React frontend, FastAPI backend, PostgreSQL, Stripe payments, Docker.
+
+**Technology & Transformation Intern** · *Deloitte · May 2025 – Aug 2025*  
+Analyzed 10+ Excel datasets of server, VM, and cost metrics into a 50+ slide infrastructure report with consolidation and migration recommendations for a global pharmacy client.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Siddhant-Dixit22&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Siddhant-Dixit22&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant-Dixit22&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
+---
+
+<p align="center">
+  <em>Open to SWE internship opportunities for Summer 2026.</em>
+</p>
