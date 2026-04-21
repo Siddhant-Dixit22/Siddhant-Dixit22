@@ -20,6 +20,8 @@
 - 🧪 Working on **IntelliPay**, a centralized LLM billing dashboard unifying costs across providers
 - 🌱 Learning **Computer Vision & Machine Learning** — expanding from full-stack into applied AI
 - ☁️ **AWS Certified Cloud Practitioner**
+- 🌐 Portfolio: [siddhant-dixit22.github.io](https://siddhant-dixit22.github.io/)
+- 🗣️ Fun fact: I'm bilingual
 
 ---
 
@@ -85,19 +87,8 @@ Building OpenVerse end-to-end — React frontend, FastAPI backend, PostgreSQL, S
 Analyzed 10+ Excel datasets of server, VM, and cost metrics into a 50+ slide infrastructure report with consolidation and migration recommendations for a global pharmacy client.
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddhant-Dixit22&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Siddhant-Dixit22&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant-Dixit22&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-
----
+ 
 
 <p align="center">
-  <em>Open to SWE internship opportunities for Summer 2026.</em>
+  <em>Open to SWE job opportunities for Summer 2027.</em>
 </p>
